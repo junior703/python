@@ -1,1 +1,1 @@
-web: python we.py $PORT
+web: python blog.py $PORT
